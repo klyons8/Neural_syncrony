@@ -24,7 +24,6 @@ cd(localpath);
 %Variables to change
 numROI = 7; %This could be the number of channels too (for fNIRS)
 atlas = {'Visual','Somatosensory','Dorsal  Attention','Ventral Attention','Limbic','FP','Default'};
-nt = 1;
 Groups = 2;
 Age = 2;
 GroupName = ["Low", "High"];

@@ -4,8 +4,6 @@
 
 clc; clear all
 
-stringsAsFactors = FALSE;
-
 %Load the data
 OldHigh = load('Old_High_fisherR.mat');
 OldLow = load('Old_Low_fisherR.mat');
